@@ -1,0 +1,21 @@
+{"GameConfig": {
+    "CellHeight":16,
+    "CellWidth":11
+},
+"GameQS": {
+
+    "id": "1-across",
+    "number":"1",
+    "humanNumber": "1",
+    "clue": "Hair that grows on the chin and sides of somebody's face",
+    "direction": "across",
+    "length":5,
+    "group": ["1-across"],
+    "position": {"x":6,"y":0},
+    "seperatorLocations": {
+        "-":[2]
+    },
+    "solution":"BEARD"
+
+}
+}
